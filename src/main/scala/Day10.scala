@@ -3,6 +3,7 @@ package com.ravikg
 import scala.collection.mutable.Stack
 import scala.io.Source
 
+// URL: https://adventofcode.com/2021/day/10
 object Day10 extends App {
   val input = Source.fromResource("day10.txt").getLines().toList
 

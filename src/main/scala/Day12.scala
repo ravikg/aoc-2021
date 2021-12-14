@@ -2,6 +2,7 @@ package com.ravikg
 
 import scala.io.Source
 
+// URL: https://adventofcode.com/2021/day/12
 object Day12 extends App {
   val input = Source.fromResource("day12.txt").getLines().toList
 

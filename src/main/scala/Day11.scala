@@ -3,6 +3,7 @@ package com.ravikg
 import scala.io.Source
 import scala.language.postfixOps
 
+// URL: https://adventofcode.com/2021/day/11
 object Day11 extends App {
 
   val input = Source.fromResource("day11.txt").getLines().toList

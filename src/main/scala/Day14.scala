@@ -5,6 +5,7 @@ import scalaz.Scalaz._
 
 import scala.io.Source
 
+// URL: https://adventofcode.com/2021/day/14
 object Day14 extends App {
 
   val input = Source.fromResource("day14.txt").getLines()
